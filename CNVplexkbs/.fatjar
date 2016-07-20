@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue May 12 12:27:58 CST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=F\:\\201557\\fat\\ISEW_linux.jar
+manifest.mergeall=true
+manifest.mainclass=ISEW
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<jar|sy6.jar>
+includes=
